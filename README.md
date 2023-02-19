@@ -6,6 +6,8 @@ Getting Started
 First, run the development server:
 
 npm start
-# or
+ or
 yarn start
+#
+
 Open http://localhost:8022 with your browser to see the result.
